@@ -4,17 +4,17 @@
 	<channel>
 		<title>Início</title>
 		<description><![CDATA[]]></description>
-		<link>http://backup/portfolio/index.php?view=category&amp;id=2</link>
-		<lastBuildDate>Tue, 08 Jun 2021 14:25:50 +0000</lastBuildDate>
+		<link>http://localhost/portfolio/index.php?view=category&amp;id=2</link>
+		<lastBuildDate>Wed, 09 Jun 2021 20:13:45 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="http://backup/portfolio/portfolio/index.php?view=category&amp;id=2&amp;format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost/portfolio/portfolio/index.php?view=category&amp;id=2&amp;format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<item>
 			<title>Seja bem vinda(o)!</title>
-			<link>http://backup/portfolio/index.php</link>
-			<guid isPermaLink="true">http://backup/portfolio/index.php</guid>
+			<link>http://localhost/portfolio/index.php</link>
+			<guid isPermaLink="true">http://localhost/portfolio/index.php</guid>
 			<description><![CDATA[<hr />
-<p>Advocacia especializada em previdência.</p>]]></description>
+<p>Advocacia especializada em previdência..</p>]]></description>
 			<category>Genérica</category>
 			<pubDate>Tue, 08 Jun 2021 16:27:54 +0000</pubDate>
 		</item>

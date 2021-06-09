@@ -3,27 +3,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
 	<title type="text">Início</title>
 	<subtitle type="text"></subtitle>
-	<link rel="alternate" type="text/html" href="http://backup">
-	<id>http://backup/portfolio/index.php</id>
-	<updated>2021-06-08T14:25:50+00:00</updated>
+	<link rel="alternate" type="text/html" href="http://localhost">
+	<id>http://localhost/portfolio/index.php</id>
+	<updated>2021-06-09T20:13:45+00:00</updated>
 	<author>
 		<name>Fátima Evangelista</name>
 	</author>
 	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
-	<link rel="self" type="application/atom+xml" href="http://backup/portfolio/portfolio/index.php?view=category&amp;id=2&amp;format=feed&amp;type=atom">
+	<link rel="self" type="application/atom+xml" href="http://localhost/portfolio/portfolio/index.php?view=category&amp;id=2&amp;format=feed&amp;type=atom">
 	<entry>
 		<title>Seja bem vinda(o)!</title>
-		<link rel="alternate" type="text/html" href="http://backup/portfolio/index.php">
+		<link rel="alternate" type="text/html" href="http://localhost/portfolio/index.php">
 		<published>2021-06-08T16:27:54+00:00</published>
 		<updated>2021-06-08T16:27:54+00:00</updated>
-		<id>http://backup/portfolio/index.php</id>
+		<id>http://localhost/portfolio/index.php</id>
 		<author>
 			<name>Fátima Evangelista</name>
 		</author>
 		<summary type="html">&lt;hr /&gt;
-&lt;p&gt;Advocacia especializada em previdência.&lt;/p&gt;</summary>
+&lt;p&gt;Advocacia especializada em previdência..&lt;/p&gt;</summary>
 		<content type="html">&lt;hr /&gt;
-&lt;p&gt;Advocacia especializada em previdência.&lt;/p&gt;</content>
+&lt;p&gt;Advocacia especializada em previdência..&lt;/p&gt;</content>
 		<category term="Genérica" />
 	</entry>
 </feed>
